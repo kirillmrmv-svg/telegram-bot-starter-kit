@@ -30,7 +30,13 @@ What's Included
 
 •	Start screen and language selection — welcome screen and language choice saved to the database.
 
+![Bot menu](1.jpg)
+
 •	Terms \& Privacy acceptance screen — view Terms of Service and Privacy Policy text, accept terms with status saved to the database, or return to language selection.
+
+![Bot menu](2.jpg)
+![Bot menu](7.jpg)
+![Bot menu](3.jpg)
 
 •	Main menu and navigation — clean in-chat message updates, help section, and language switching.
 
